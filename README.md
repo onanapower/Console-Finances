@@ -2,7 +2,7 @@
 
 This is a code that shows how the financial details of a company over some time, it comprises of the details of:
 
-# Month:
+# Months:
 
 The period of the transaction that took place
 
