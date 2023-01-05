@@ -1,6 +1,7 @@
 # Console-Finances
 
-This is a code that shows how the financial details of a company over some time, it comprises of the details of:
+This is a code that shows how the financial record of a company over sometime was calculated to help analyse the major finacial activities of a particular period,
+it comprises of the details of:
 
 # Months:
 
